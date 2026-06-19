@@ -50,3 +50,15 @@ I utilize AI assistants strictly as a supplementary learning tool for:
 3. Creating local test harnesses to verify my logic.
 
 The core implementation and problem-solving process are entirely my own.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0137-single-number-ii](https://github.com/kanie-reishi/FTEL-Embedded-Bootcamp-2026/tree/main/0137-single-number-ii/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0137-single-number-ii](https://github.com/kanie-reishi/FTEL-Embedded-Bootcamp-2026/tree/main/0137-single-number-ii/) | Medium |
+<!---LeetCode Topics End-->
